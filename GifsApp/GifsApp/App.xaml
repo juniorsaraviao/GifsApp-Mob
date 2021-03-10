@@ -4,5 +4,9 @@
              x:Class="GifsApp.App">
     <Application.Resources>
 
+        <Style TargetType="Label" x:Key="LabelStyle">
+            <Setter Property="FontFamily" Value="FAFree-Solid" />
+        </Style>
+
     </Application.Resources>
 </Application>
